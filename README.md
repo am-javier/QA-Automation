@@ -2,16 +2,16 @@
 
 Mi primer proyecto de automatización de pruebas.
 
-## 🚀 Tecnologías
+## Tecnologías
 - Playwright
 - TypeScript
 - Git & GitHub
 
-## ✅ Tests realizados
+## Tests realizados
 - Login válido
 - Login inválido
 
-## ▶️ Cómo correr los tests
+## Cómo correr los tests
 ```bash
 npm install
 npx playwright test
