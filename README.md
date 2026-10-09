@@ -10,6 +10,7 @@ Mi primer proyecto de automatización de pruebas.
 ## Tests realizados
 - Login válido
 - Login inválido
+- Agregar al Carrito
 
 ## Cómo correr los tests
 ```bash
